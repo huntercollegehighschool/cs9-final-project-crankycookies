@@ -166,3 +166,4 @@ if choice3b == "no":
   print("\nFate is already decided... the only thing that changes is how you get there. Although if you don't give up, the directions to the clue is quite easy.")
   print("First, remember The Creator's name and then remember Triangles. The most beloved Triangle is one that is Not Wrong.")
   print("Remember that these are directions... The Creator's name starts with L and has no letters... and what is the opposite of wrong?")
+  print("ps... restart the game :skull:")
