@@ -156,7 +156,7 @@ if choice3b == "yes":
   print("First, remember The Creator's name and then remember Triangles. The most beloved Triangle is one that is Not Wrong.") #i feel so narcassistic... but i did create this so HA
 
 if choice3b == "no":
-  food = "The witch offers you food and drink. Tired, you drink it. The world fades into black... \nYou wake up in a room. Why is it so warm...?"
+  food = "\n The witch watches you as you turn away from the door. You notice that she has been baking cookies. The witch approaches you with food in hand...she offers it to you. Tired, you eat it. The world fades into black... \nYou wake up in a room. Why is it so warm...?"
   nofood = "The witch offers you food and drink. Tired, but suspicious, you turn down the offer. The witch smiles and walks out of the hut. You feel warm... and slowly black out."
   yorn = [food, nofood]
   print(random.choice(yorn))
@@ -166,4 +166,4 @@ if choice3b == "no":
   print("\nFate is already decided... the only thing that changes is how you get there. Although if you don't give up, the directions to the clue is quite easy.")
   print("First, remember The Creator's name and then remember Triangles. The most beloved Triangle is one that is Not Wrong.")
   print("Remember that these are directions... The Creator's name starts with L and has no letters... and what is the opposite of wrong?")
-  print("ps... restart the game :skull:")
+  print("pls... restart the game :skull:")
