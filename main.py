@@ -30,7 +30,7 @@ elif choice1 == "right":
   choice2 = choice2.lower()
 
 if choice1 == "left" and choice2 == "yes":
-  print("\nYou follow the phantom into the woods. They take the right instead of the left. \n\nThe sun overhead starts setting, turning the trees a strange shade of red. You continue running. Eventually, you reach a hut. The phantom disappears-- were you imagining the whoel scenario? Outside, a cat with gleaming white fur licks its paw.")
+  print("\nYou follow the phantom into the woods. They take the right instead of the left. \n\nThe sun overhead starts setting, turning the trees a strange shade of red. You continue running. Eventually, you reach a hut. The phantom disappears-- were you imagining the whole scenario? Outside, a cat with gleaming white fur licks its paw.")
   choice3a = input("\nWould you like to explore the hut? (yes, no)")
   choice3a = choice3a.lower()
 elif choice1 == "left" and choice2 == "no":
@@ -38,7 +38,7 @@ elif choice1 == "left" and choice2 == "no":
   choice3a = input("\nWalk towards left or right? ")
   choice3a = choice3a.lower()
 elif choice1 == "right" and choice2 == "yes": 
-  print("\nYou follow the phantom into the woods. They take the right instead of the left. \n\nThe sun overhead starts setting, turning the trees a strange shade of red. You continue running. Eventually, you reach a hut. The phantom disappears-- were you imagining the whoel scenario? Outside, a cat with gleaming white fur licks its paw.")
+  print("\nYou follow the phantom into the woods. They take the right instead of the left. \n\nThe sun overhead starts setting, turning the trees a strange shade of red. You continue running. Eventually, you reach a hut. The phantom disappears-- were you imagining the whole scenario? Outside, a cat with gleaming white fur licks its paw.")
   choice3a = input("\nWould you like to explore the hut? (yes, no)")
   choice3a = choice3a.lower()
 elif choice1 == "right" and choice2 == "no":
