@@ -161,7 +161,7 @@ if choice3b == "no":
   yorn = [food, nofood]
   print(random.choice(yorn))
   print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\"Dear traveler, how many times have you tried playing this game?\" The guide from the beginning smiles at you.")
-  numoftimes = int(input("Enter number of times... "))
+  numoftimes = input("Enter number of times... ")
   print("\n" + numoftimes + "\"times...\" the guide sighs. ")
   print("\nFate is already decided... the only thing that changes is how you get there. Although if you don't give up, the directions to the clue is quite easy.")
   print("First, remember The Creator's name and then remember Triangles. The most beloved Triangle is one that is Not Wrong.")
