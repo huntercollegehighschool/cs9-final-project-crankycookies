@@ -135,7 +135,7 @@ if choice1 == "right" and choice2 == "yes" and choice3a == "yes" and choice3b ==
 elif choice1 == "left" and choice2 == "no" and choice3a == "right":
   print("\nYou continue walking. There is nothing but trees for miles to come. Eventually, you find a small rest station. A hooded figure sits there...")
   print("\n\"Hello there.\"")
-  response = input("What is your response? (hint, the correct one is 2 words) ")
+  response = input("What is your response? (hint, the correct one is 2 words... look up \'hello there\' and star wars) ")
   response = response.lower()
   
 if response != "general kenobi" and choice1 == "left" and choice2 == "no" and choice3a == "right":
@@ -165,5 +165,5 @@ if choice3b == "no":
   print("\n" + numoftimes + "\"times...\" the guide sighs. ")
   print("\nFate is already decided... the only thing that changes is how you get there. Although if you don't give up, the directions to the clue is quite easy.")
   print("First, remember The Creator's name and then remember Triangles. The most beloved Triangle is one that is Not Wrong.")
-  print("Remember that these are directions... The Creator's name starts with L and has no letters... and what is the opposite of wrong?")
+  print("Remember that these are directions (so don't follow the temptations--)... The Creator's name starts with L and has no letters... and what is the opposite of wrong?")
   print("pls... restart the game :skull:")
